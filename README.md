@@ -1,12 +1,17 @@
 #Hackintosh
 教程作者：Genius-lbesT 
-对本教程如有疑问，请添加QQ好友：2489050703
 
-本教程制作为6代台式机CPU通用的安装及完善驱动。
-AMD / NVDIA / INTEL均可通过EFI-for-install.zip安装到机器上
-EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的mojave镜像with clover 4903提取
-感谢黑果小兵daliansky
-镜像下载： https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html
+对本教程如有疑问，请添加QQ好友：2489050703.
+
+本教程制作为6代台式机CPU通用的安装及完善驱动.
+
+AMD / NVDIA / INTEL均可通过EFI-for-install.zip安装到机器上.
+
+EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的mojave镜像with clover 4903提取.
+
+感谢黑果小兵daliansky。
+
+镜像下载： https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html。
 
 准备工作：
 
