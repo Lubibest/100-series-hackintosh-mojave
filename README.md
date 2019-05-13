@@ -4,18 +4,18 @@
 
 本教程制作为6代台式机CPU通用的安装及完善驱动。
 AMD / NVDIA / INTEL均可通过EFI-for-install.zip安装到机器上
-EFI蓝本为黑果小兵daliansky博客blog.daliansky.net的mojave镜像with clover 4903提取
+EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的mojave镜像with clover 4903提取
 感谢黑果小兵daliansky
-镜像下载：https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html
+镜像下载： https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html
 
 准备工作：
 
 一、安装前：
 所需要使用的软件
 
-Etcher（https://www.balena.io/etcher/）
+Etcher https://www.balena.io/etcher/
 
-DG分区工具(win下制作）/苹果制作启动U盘命令（https://www.iplaysoft.com/macos-usb-install-drive.html）
+DG分区工具(win下制作）/苹果制作启动U盘命令https://www.iplaysoft.com/macos-usb-install-drive.html
 
 二、安装
 
@@ -120,5 +120,3 @@ H110,B150,Z170芯片组的台式机电脑
 具体请自行测试。
 
 如有疑问，请添加本人QQ：2489050703 Genius-lbesT
-
-
