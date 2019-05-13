@@ -117,11 +117,19 @@ macOS 10.13安装中常见的问题及解决方法
 https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html
 
 6.本教程适用的主板包括
+
 微星H110,微星b150,微星Z170
+
 技嘉H110,技嘉B150,技嘉Z170
+
 华硕H110,华硕B150,华硕Z170
+
 或
+
 H110,B150,Z170芯片组的台式机电脑
+
 具体请自行测试。
 
 如有疑问，请添加本人QQ：2489050703 Genius-lbesT
+
+By垃圾帮主
