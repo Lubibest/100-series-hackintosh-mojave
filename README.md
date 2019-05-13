@@ -1,4 +1,5 @@
 #Hackintosh
+
 教程作者：Genius-lbesT 
 
 对本教程如有疑问，请添加QQ好友：2489050703.
@@ -136,4 +137,4 @@ H110,B150,Z170芯片组的台式机电脑
 
 感谢 黑果小兵blog.daliansky.net 
 
-本文EFI由 垃圾帮主 修改制作-由 Genius-lbesT 发布，并有垃圾帮主提供后续升级版本支持。
+本文EFI由 Genius-lbesT 修改制作并发布，并提供远程教学安装服务，如需远程技术支持，请添加我的QQ
