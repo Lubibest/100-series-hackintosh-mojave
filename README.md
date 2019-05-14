@@ -1,4 +1,4 @@
-#Hackintosh
+#100-series-hackintosh
 
 教程作者：Genius-lbesT 
 
@@ -45,6 +45,8 @@ bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/m
 
 重启生效
 
+由于nvdia显卡无法更新os版本，我将不再为nvdia显卡的机器更新clover。
+
 2.AMD显卡
 
 AMD免驱显卡推荐安装mojave10.14.4，镜像下载地址：
@@ -62,6 +64,8 @@ https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutor
 用clover configurator替换U盘的ESP分区的EFI文件为EFI-for-after install-AMD.zip
 
 重启生效
+
+AMD显卡的机器将持续得到clover升级的支持
 
 3.intel
 
@@ -81,7 +85,11 @@ https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutor
 
 用clover configurator替换U盘的ESP分区的EFI文件为EFI-for-after install-intel.zip  
 
-PS：intel注入为OX12345678,请查阅核显ID列表查找并尝试驱动或通过Hackintool注入补丁，本教程为对核显机器完善驱动。如需要技术支持，请加我的QQ
+PS：intel注入为OX12345678,请查阅核显ID列表查找并尝试驱动或通过Hackintool注入补丁，本教程为对核显机器完善驱动。
+
+intel的机器将会持续得到clover升级的支持
+
+如需要技术支持，请加我的QQ
 
 4.本教程中已放入applealc.kext，请根据自己的声卡型号尝试注入声卡ID，声卡ID请查阅下面这篇教程：
 
@@ -135,6 +143,4 @@ H110,B150,Z170芯片组的台式机电脑
 
 7.AMD显卡的EFI将在后续的os版本升级中得到更新
 
-感谢 黑果小兵blog.daliansky.net 
-
-本文EFI由 Genius-lbesT 修改制作并发布，并提供远程教学安装服务，如需远程技术支持，请添加我的QQ
+本文EFI由 Genius-lbesT 修改制作并发布，并提供远程教学安装服务，如需远程技术支持，请添加我的QQ。
