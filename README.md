@@ -65,9 +65,9 @@ bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/m
 
 2.AMD显卡
 
-AMD免驱显卡推荐安装mojave10.14.4，镜像下载地址：
+AMD免驱显卡推荐安装mojave10.14.5，镜像下载地址：
 
-https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html
+https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html
 
 使用Etcher制作U盘，完成后用DG分区工具将EFI-for-install.zip解压出来的EFI替换掉U盘的ESP分区中的所有文件
 
@@ -85,11 +85,11 @@ AMD显卡的机器将持续得到clover升级的支持
 
 3.intel
 
-Intel HD530 核显推荐安装mojave10.14.4
+Intel HD530 核显推荐安装mojave10.14.5
 
 镜像下载地址：
 
-https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html
+https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html
 
 使用Etcher制作U盘，完成后用DG分区工具将EFI-for-install.zip解压出来的EFI替换掉U盘的ESP分区中的所有文件
 
