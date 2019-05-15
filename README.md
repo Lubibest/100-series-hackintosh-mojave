@@ -12,7 +12,7 @@ EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的mojave镜像with c
 
 感谢黑果小兵daliansky。
 
-镜像下载： https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html。
+镜像下载： https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html
 
 准备工作：
 
