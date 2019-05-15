@@ -31,9 +31,13 @@ Nvdia-High Sierra 10.13.6
 一、安装前：
 所需要使用的软件
 
-Etcher https://www.balena.io/etcher/
+Etcher+DG分区工具 写入镜像需要使用的软件及分区助手
 
-DG分区工具(win下制作）/苹果制作启动U盘命令https://www.iplaysoft.com/macos-usb-install-drive.html
+Etcher下载链接：https://www.balena.io/etcher/
+
+DG分区工具下载链接：
+
+苹果制作启动U盘命令https://www.iplaysoft.com/macos-usb-install-drive.html
 
 二、安装
 
