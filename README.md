@@ -8,7 +8,7 @@
 
 AMD / NVDIA / INTEL均可通过EFI-for-install.zip安装到机器上.
 
-EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的mojave镜像with clover 4903（nvdia)/clover 4928(AMD+INTEL)提取.
+EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的镜像with clover 4903（nvdia)/clover 4928(AMD+INTEL)提取.
 
 NVDIA支持10.13.6/AMD+INTEL支持最新版本mojave10.14.5
 
