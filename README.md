@@ -15,12 +15,15 @@ NVDIA支持10.13.6/AMD+INTEL支持最新版本mojave10.14.5
 感谢黑果小兵daliansky
 
 AMD+INTEL-Mojave 10.14.5
+
 镜像下载：https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html
 
 AMD+INTEL-Mojave 10.14.4
+
 镜像下载： https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html
 
 Nvdia-High Sierra 10.13.6
+
 镜像下载：https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html
 
 准备工作：
