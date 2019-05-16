@@ -38,7 +38,7 @@ Nvdia-High Sierra 10.13.6
 
 一、安装教程
 
-https://github.com/Lubibest/How-to-install-a-Hackintosh/blob/master/
+https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 二、安装
 
@@ -48,13 +48,7 @@ nvdia显卡推荐安装10.13.6（17G65)，镜像下载地址：
 
 https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html
 
-使用Etcher制作U盘，完成后用DG分区工具将EFI-for-install.zip解压出来的EFI替换掉U盘的ESP分区中的所有文件
-
-修改BIOS，通过搜索引擎查找自己主板需要调整的BIOS设置
-
-修改U盘为第一启动项，并启动四叶草引导，参考教程
-
-https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutorial.html
+安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 请在安装完成后使用终端运行下面的命令，并用clover configurator替换U盘的ESP分区的EFI文件为EFI-for-after install-nvdia.zip
 
@@ -70,13 +64,7 @@ AMD免驱显卡推荐安装mojave10.14.5，镜像下载地址：
 
 https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html
 
-使用Etcher制作U盘，完成后用DG分区工具将EFI-for-install.zip解压出来的EFI替换掉U盘的ESP分区中的所有文件
-
-修改BIOS，通过搜索引擎查找自己主板需要调整的BIOS设置
-
-修改U盘为第一启动项，并启动四叶草引导，参考教程
-
-https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutorial.html
+安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 用clover configurator替换U盘的ESP分区的EFI文件为EFI-for-after install-AMD.zip
 
@@ -92,13 +80,9 @@ Intel HD530 核显推荐安装mojave10.14.5
 
 https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html
 
-使用Etcher制作U盘，完成后用DG分区工具将EFI-for-install.zip解压出来的EFI替换掉U盘的ESP分区中的所有文件
+安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
 
-修改BIOS，通过搜索引擎查找自己主板需要调整的BIOS设置
-
-修改U盘为第一启动项，并启动四叶草引导，参考教程
-
-https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutorial.html
+https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 用clover configurator替换U盘的ESP分区的EFI文件为EFI-for-after install-intel.zip  
 
