@@ -6,7 +6,7 @@
 
 本教程制作为6代hd530核显台式机CPU通用的安装及完善驱动.
 
-适用于H630的200系的主板请阅读：
+适用于hd630的200系的主板请阅读：
 
 https://github.com/Lubibest/200-series-hackintosh-mojave
 
