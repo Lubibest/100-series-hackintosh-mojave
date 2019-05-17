@@ -1,24 +1,26 @@
 # 100-series-hackintosh
 
-作者：Genius-lbesT QQ2489050703
+##### 作者：**Genius-lbesT** QQ2489050703
 
-加入QQ群：724096369 黑苹果Genius
+##### 加入QQ群：724096369 黑苹果Genius
 
-本教程制作为6代hd530核显台式机CPU通用的安装及完善驱动.
+本教程制作为**6代hd530**核显台式机CPU通用的安装及完善驱动.
 
-#### ·适用于hd630的200系(100系）的主板请阅读（PS：200系主板的教程同样适用于搭载7代CPU的核显为HD630的100系主板）
+#### ·适用于hd630的200系(100系）的主板请阅读
 
-https://github.com/Lubibest/200-series-hackintosh-mojave
+##### （PS：200系主板的教程同样适用于搭载7代CPU的核显为HD630的100系主板）
 
-### ·适用于uhd630的300系主板的请阅读：
+##### https://github.com/Lubibest/200-series-hackintosh-mojave
 
-https://github.com/Lubibest/300-series-hackintosh-mojave
+#### ·适用于uhd630的300系主板的请阅读：
+
+##### https://github.com/Lubibest/300-series-hackintosh-mojave
 
 
 
 ## 正文
 
-AMD / NVDIA / INTEL均可通过EFI-for-install.zip安装到机器上.
+##### AMD / NVDIA / INTEL均可通过EFI-for-install.zip安装到机器上.
 
 EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的镜像with clover 4903（nvdia)/clover 4928(AMD+INTEL)提取.
 
@@ -96,7 +98,7 @@ bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/m
 
 由于nvdia显卡无法更新os版本，我将不再为nvdia显卡的机器更新clover。
 
-### 四.本教程中已放入applealc.kext，请根据自己的声卡型号尝试注入声卡ID，声卡ID请查阅下面这篇教程：
+### 四、本教程中已放入applealc.kext，请根据自己的声卡型号尝试注入声卡ID，声卡ID请查阅下面这篇教程：
 
 AppleALC支持的Codecs列表及AppleALC的使用
 
@@ -118,7 +120,7 @@ clover configuratoer
 
 Devices/Audio/inject(手动输入）
 
-### 五.注意事项：
+### 五、注意事项：
 
 安装过程如果遇到任何问题，请查阅黑果小兵的两篇教程,如下：
 
@@ -130,7 +132,7 @@ https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-i
 
 https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html
 
-### 六.本教程适用的主板包括
+### 六、本教程适用的主板包括
 
 微星H110,微星b150,微星Z170
 
@@ -146,9 +148,9 @@ H110,B150,Z170芯片组的台式机电脑
 
 如有疑问，请添加QQ：2489050703 Genius-lbesT
 
-### 七.AMD显卡的EFI将在后续的os版本升级中得到更新
+### 七、AMD显卡的EFI将在后续的os版本升级中得到更新
 
-### 八.本教程EFI由-垃圾帮主-修改制作-Genius lbesT-发布
+### 八、本教程EFI由-垃圾帮主-修改制作-Genius lbesT-发布
 
 并提供远程教学安装服务，如需远程技术支持，请添加我的QQ
 
