@@ -46,23 +46,7 @@ https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 ### 二、安装
 
-#### 1.NVDIA显卡的机器
-
-nvdia显卡推荐安装10.13.6（17G65)，镜像下载地址：
-
-https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html
-
-安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
-
-请在安装完成后使用终端运行下面的命令，并用clover configurator替换U盘的ESP分区的EFI文件为EFI-for-after install-nvdia.zip
-
-bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh)
-
-重启生效
-
-由于nvdia显卡无法更新os版本，我将不再为nvdia显卡的机器更新clover。
-
-#### 2.AMD显卡
+#### 1.AMD显卡
 
 AMD免驱显卡推荐安装mojave10.14.5，镜像下载地址：
 
@@ -76,7 +60,7 @@ https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clo
 
 AMD显卡的机器将持续得到clover升级的支持
 
-#### 3.intel
+#### 2.intel
 
 Intel HD530 核显推荐安装mojave10.14.5
 
@@ -95,6 +79,22 @@ PS：intel注入为0X12345678,请查阅核显ID列表查找并尝试驱动或通
 intel的机器将会持续得到clover升级的支持
 
 如需要技术支持，请加我的QQ
+
+#### 3.NVDIA显卡的机器
+
+nvdia显卡推荐安装10.13.6（17G65)，镜像下载地址：
+
+https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html
+
+安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
+
+请在安装完成后使用终端运行下面的命令，并用clover configurator替换U盘的ESP分区的EFI文件为EFI-for-after install-nvdia.zip
+
+bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh)
+
+重启生效
+
+由于nvdia显卡无法更新os版本，我将不再为nvdia显卡的机器更新clover。
 
 ### 四.本教程中已放入applealc.kext，请根据自己的声卡型号尝试注入声卡ID，声卡ID请查阅下面这篇教程：
 
