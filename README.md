@@ -6,16 +6,6 @@
 
 本教程制作为**6代hd530**核显台式机CPU通用的安装及完善驱动.
 
-#### ·适用于hd630的200系(100系）的主板请阅读
-
-##### （PS：200系主板的教程同样适用于搭载7代CPU的核显为HD630的100系主板）
-
-##### https://github.com/Lubibest/200-series-hackintosh-mojave
-
-#### ·适用于uhd630的300系主板的请阅读：
-
-##### https://github.com/Lubibest/300-series-hackintosh-mojave
-
 
 
 ## 正文
@@ -74,7 +64,7 @@ https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clo
 
 用clover configurator替换U盘的ESP分区的EFI文件为EFI-for-after install-intel.zip  
 
-PS：intel注入为0X12345678,请查阅核显ID列表查找并尝试驱动或通过Hackintool注入补丁，本教程为对核显机器完善驱动。
+PS：intel注入为`0X12345678`,请查阅核显ID列表查找并尝试驱动或通过Hackintool注入补丁，本教程为对核显机器完善驱动。
 
 intel的机器将会持续得到clover升级的支持
 
@@ -88,7 +78,7 @@ https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-
 
 请在安装完成后使用终端运行下面的命令，并用clover configurator替换U盘的ESP分区的EFI文件为EFI-for-after install-nvdia.zip
 
-bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh)
+`bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh)`
 
 重启生效
 
@@ -150,9 +140,21 @@ H110,B150,Z170芯片组的台式机电脑
 
 ### 六、AMD显卡的EFI将在后续的os版本升级中得到更新
 
-### 七、本教程EFI
+### 七、其他
 
-由 
+#### ·适用于hd630的200系(100系）的主板请阅读
+
+##### （PS：200系主板的教程同样适用于搭载7代CPU的核显为HD630的100系主板）
+
+##### https://github.com/Lubibest/200-series-hackintosh-mojave
+
+#### ·适用于uhd630的300系主板的请阅读：
+
+##### https://github.com/Lubibest/300-series-hackintosh-mojave
+
+### 八、本教程EFI
+
+由
 
 **-垃圾帮主-**修改制作
 
