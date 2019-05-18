@@ -82,9 +82,7 @@ https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-
 
 重启生效
 
-由于nvdia显卡无法更新os版本，我将不再为nvdia显卡的机器更新clover。
-
-如需要技术支持，请加我的QQ
+由于nvdia显卡无法更新os版本，我将不再为nvdia显卡的机器更新clover
 
 ### 三、本教程中已放入applealc.kext，请根据自己的声卡型号尝试注入声卡ID，声卡ID请查阅下面这篇教程：
 
