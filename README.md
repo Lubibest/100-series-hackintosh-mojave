@@ -158,6 +158,4 @@ H110,B150,Z170芯片组的台式机电脑
 
 作者：**Genius-lbesT** QQ2489050703
 
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=c1389983daef2047794d4ad4189d2d9989dd64ded2652c638a62e40775246c7b"><github.com/Lubibest/Hackintosh/JPG/qq.png" alt="黑苹果Genius" title="黑苹果Genius"></a>
-
  **黑苹果Genius**
