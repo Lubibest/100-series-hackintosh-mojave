@@ -1,8 +1,8 @@
 # 100-series-hackintosh
 
-##### 作者：**Genius-lbesT** QQ2489050703
+##### 作者：**Genius-lbesT** 
 
-##### 加入QQ群：724096369 黑苹果Genius
+##### 黑苹果Genius
 
 本教程制作为**6代hd530**核显台式机CPU通用的安装及完善驱动.
 
