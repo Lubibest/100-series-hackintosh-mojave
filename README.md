@@ -36,9 +36,7 @@ NVDIA支持10.13.6/AMD+INTEL支持最新版本mojave10.14.5
 
 #### 1.AMD显卡
 
-AMD免驱显卡推荐安装mojave10.14.5，镜像下载地址：
-
-[镜像下载](https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html)
+AMD免驱显卡推荐安装mojave10.14.5，[镜像下载](https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html)
 
 使用[**EFI-for-install**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-install.zip)进行安装系统
 
@@ -50,9 +48,7 @@ AMD显卡的机器将持续得到clover升级的支持
 
 ### 2.intel
 
-Intel HD530 核显推荐安装mojave10.14.5
-
-[镜像下载](https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html)
+Intel HD530 核显推荐安装mojave10.14.5，[镜像下载](https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html)
 
 使用[**EFI-for-install**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-install.zip)进行安装系统
 
@@ -64,9 +60,7 @@ intel的机器将会持续得到clover升级的支持
 
 #### 3.NVDIA显卡的机器
 
-nvdia显卡推荐安装10.13.6（17G65)
-
-[镜像下载](https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html)
+nvdia显卡推荐安装10.13.6（17G65)，[镜像下载](https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html)
 
 使用[**EFI-for-install**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-install.zip)进行安装系统
 
@@ -106,9 +100,9 @@ Devices/Audio/inject(手动输入）
 
 安装过程如果遇到任何问题，请查阅黑果小兵的两篇教程,如下：
 
-##### [macOS Mojave 10.14安装中常见的问题及解决方法](https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html)
+[macOS Mojave 10.14安装中常见的问题及解决方法](https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html)
 
-##### [macOS 10.13安装中常见的问题及解决方法](https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html)
+[macOS 10.13安装中常见的问题及解决方法](https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html)
 
 ### 五、本教程适用的主板包括
 
