@@ -40,7 +40,7 @@ AMD免驱显卡推荐安装mojave10.14.5，[镜像下载](https://blog.daliansky
 
 使用[**EFI-for-install**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-install.zip)进行安装系统
 
-安装完成后，用**「clover configurator」**替换硬盘的**ESP分区**的EFI文件为[**EFI-for-after install-AMD.zip**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-after%20install-AMD.zip)
+安装完成后，用「**clover configurator**」替换硬盘的**ESP分区**的EFI文件为[**EFI-for-after install-AMD.zip**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-after%20install-AMD.zip)
 
 重启生效
 
@@ -52,7 +52,7 @@ Intel HD530 核显推荐安装mojave10.14.5，[镜像下载](https://blog.dalian
 
 使用[**EFI-for-install**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-install.zip)进行安装系统
 
-用**「clover configurator」**替换硬盘的ESP分区的EFI文件为[**EFI-for-after install-intel.zip**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-after%20install-intel.zip)
+用「**clover configurator**」替换硬盘的ESP分区的EFI文件为[**EFI-for-after install-intel.zip**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-after%20install-intel.zip)
 
 PS：intel注入为`0X12345678`,请查阅核显ID列表查找并尝试驱动或通过Hackintool注入补丁，本教程为对核显机器完善驱动。
 
@@ -64,7 +64,7 @@ nvdia显卡推荐安装10.13.6（17G65)，[镜像下载](https://blog.daliansky.
 
 使用[**EFI-for-install**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-install.zip)进行安装系统
 
-请在安装完成后使用终端运行下面的命令，并用**「clover configurator」**替换硬盘的ESP分区的EFI文件为[EFI-for-after install-nvdia.zip](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-after%20install-nvdia.zip)
+请在安装完成后使用终端运行下面的命令，并用「**clover configurator**」替换硬盘的ESP分区的EFI文件为[EFI-for-after install-nvdia.zip](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-after%20install-nvdia.zip)
 
 `bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh)`
 
@@ -74,9 +74,7 @@ nvdia显卡推荐安装10.13.6（17G65)，[镜像下载](https://blog.daliansky.
 
 ### 三、本教程中已放入applealc.kext，请根据自己的声卡型号尝试注入声卡ID，声卡ID请查阅下面这篇教程：
 
-AppleALC支持的Codecs列表及AppleALC的使用
-
-https://blog.daliansky.net/AppleALC-Supported-codecs.html
+[AppleALC支持的Codecs列表及AppleALC的使用](https://blog.daliansky.net/AppleALC-Supported-codecs.html)
 
 常用ALC：
 
@@ -136,9 +134,9 @@ H110,B150,Z170芯片组的台式机电脑
 
 由
 
-**-垃圾帮主-**修改制作
+**垃圾帮主**修改制作
 
-**-Genius lbesT-**发布
+**Genius lbesT**发布
 
 作者：**Genius-lbesT**
 
