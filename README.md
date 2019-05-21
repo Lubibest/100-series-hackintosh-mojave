@@ -6,6 +6,8 @@
 
 本教程制作为**6代hd530**核显台式机CPU通用的安装及完善驱动.
 
+[**下载本教程的附件**](https://github.com/Lubibest/100-series-hackintosh-mojave/archive/master.zip)
+
 
 
 ## 正文
@@ -18,17 +20,11 @@ NVDIA支持10.13.6/AMD+INTEL支持最新版本mojave10.14.5
 
 感谢黑果小兵daliansky
 
-#### AMD+INTEL-Mojave 10.14.5
+#### AMD+INTEL-Mojave 10.14.5           [镜像下载](https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html)
 
-[镜像下载](https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html)
+#### AMD+INTEL-Mojave 10.14.4           [镜像下载](https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html)
 
-#### AMD+INTEL-Mojave 10.14.4
-
-[镜像下载](https://blog.daliansky.net/macOS-Mojave-10.14.4-18E226-official-version-with-Clover-4903-original-image.html)
-
-#### Nvdia-High Sierra 10.13.6
-
-[镜像下载](https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html)
+#### Nvdia-High Sierra 10.13.6               [镜像下载](https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html)
 
 
 
@@ -46,7 +42,7 @@ AMD免驱显卡推荐安装mojave10.14.5，镜像下载地址：
 
 使用[**EFI-for-install**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-install.zip)进行安装系统
 
-安装完成后，用**clover configurator**替换硬盘的**ESP分区**的EFI文件为[**EFI-for-after install-AMD.zip**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-after%20install-AMD.zip)
+安装完成后，用**「clover configurator」**替换硬盘的**ESP分区**的EFI文件为[**EFI-for-after install-AMD.zip**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-after%20install-AMD.zip)
 
 重启生效
 
@@ -60,7 +56,7 @@ Intel HD530 核显推荐安装mojave10.14.5
 
 使用[**EFI-for-install**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-install.zip)进行安装系统
 
-用clover configurator替换硬盘的ESP分区的EFI文件为EFI-for-after install-intel.zip  
+用**「clover configurator」**替换硬盘的ESP分区的EFI文件为[**EFI-for-after install-intel.zip**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-after%20install-intel.zip)
 
 PS：intel注入为`0X12345678`,请查阅核显ID列表查找并尝试驱动或通过Hackintool注入补丁，本教程为对核显机器完善驱动。
 
@@ -74,7 +70,7 @@ nvdia显卡推荐安装10.13.6（17G65)
 
 使用[**EFI-for-install**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-install.zip)进行安装系统
 
-请在安装完成后使用终端运行下面的命令，并用clover configurator替换硬盘的ESP分区的EFI文件为EFI-for-after install-nvdia.zip
+请在安装完成后使用终端运行下面的命令，并用**「clover configurator」**替换硬盘的ESP分区的EFI文件为[EFI-for-after install-nvdia.zip](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/EFI-for-after%20install-nvdia.zip)
 
 `bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh)`
 
@@ -100,7 +96,7 @@ s1220a   注入 1/2
 
 注入位置：
 
-clover configuratoer
+「**clover configurator**」
 
 Devices/Audio/inject(手动输入）
 
@@ -110,13 +106,9 @@ Devices/Audio/inject(手动输入）
 
 安装过程如果遇到任何问题，请查阅黑果小兵的两篇教程,如下：
 
-#### [macOS Mojave 10.14安装中常见的问题及解决方法](https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html)
+##### [macOS Mojave 10.14安装中常见的问题及解决方法](https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-installation.html)
 
-
-
-#### [macOS 10.13安装中常见的问题及解决方法](https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html)
-
-
+##### [macOS 10.13安装中常见的问题及解决方法](https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html)
 
 ### 五、本教程适用的主板包括
 
@@ -130,9 +122,7 @@ Devices/Audio/inject(手动输入）
 
 H110,B150,Z170芯片组的台式机电脑
 
-具体请自行测试。
-
-如有疑问，请添加QQ：2489050703 Genius-lbesT
+具体请自行测试，欢迎反馈
 
 ### 六、AMD显卡的EFI将在后续的os版本升级中得到更新
 
