@@ -16,12 +16,6 @@
 
 上传附件[**100-series-hackintosh-mojave-10.14.6-AMD.zip**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/100-series-hackintosh-mojave-10.14.6-AMD.zip)，更新CLOVER至5027，支持6代CPU配备AMD显卡的台式机在线升级10.14.6，请自行测试。
 
-##### AMD / NVDIA / INTEL均可通过EFI-for-install.zip安装到机器上.
-
-EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的镜像with clover 4903（nvdia)/clover 4928(AMD+INTEL)提取.
-
-NVDIA支持10.13.6/AMD+INTEL支持最新版本mojave10.14.6
-
 感谢黑果小兵daliansky
 
 #### AMD+INTEL-Mojave 10.14.6          [镜像下载](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G84-Release-version-with-Clover-5027-original-image.html)
