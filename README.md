@@ -16,9 +16,11 @@
 
 EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的镜像with clover 4903（nvdia)/clover 4928(AMD+INTEL)提取.
 
-NVDIA支持10.13.6/AMD+INTEL支持最新版本mojave10.14.5
+NVDIA支持10.13.6/AMD+INTEL支持最新版本mojave10.14.6
 
 感谢黑果小兵daliansky
+
+#### AMD+INTEL-Mojave 10.14.5          [镜像下载](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G84-Release-version-with-Clover-5027-original-image.html)
 
 #### AMD+INTEL-Mojave 10.14.5           [镜像下载](https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html)
 
@@ -33,6 +35,14 @@ NVDIA支持10.13.6/AMD+INTEL支持最新版本mojave10.14.5
 [How-to-install-a-Hackintosh](https://github.com/Lubibest/How-to-install-a-Hackintosh)
 
 ### 二、安装
+
+## 20190726 update
+
+上传附件[**100-series-hackintosh-mojave-10.14.6-AMD.zip**](https://github.com/Lubibest/100-series-hackintosh-mojave/raw/master/100-series-hackintosh-mojave-10.14.6-AMD.zip)，支持6代CPU配备AMD显卡的台式机在线升级10.14.6，请自行测试。
+
+有问题请加群问。
+
+
 
 #### 1.AMD显卡
 
@@ -145,3 +155,4 @@ qq群：724096369
 ![](https://github.com/Lubibest/Hackintosh/blob/master/JPG/QQ.png)
 
  **黑苹果Genius**  [打赏](https://github.com/Lubibest/About-Genius-lbesT)
+
